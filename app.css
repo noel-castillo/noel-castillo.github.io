@@ -1,7 +1,11 @@
-
-h1 {
-  color : white;
-  background : green;
-.red {
-  color : red;
+html{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font: 75% georgia, sans-serif;
+	line-height: 1.9;
+	color: #555753
+	margin: 0;
+	padding: 0;
 }
